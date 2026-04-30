@@ -117,8 +117,8 @@ Real-time and data-rich applications
 
 🤝 Connect
 
-💼 (LinkedIn)[https://www.linkedin.com/in/marcin-moldrzyk-332505214/]
+💼 [https://www.linkedin.com/in/marcin-moldrzyk-332505214/](LinkedIn)
 
-📫 Email: martinxy80@gmail.com
+📫 [martinxy80@gmail.com](Email) 
 
 Building products that are fast, useful, and satisfying to use.
