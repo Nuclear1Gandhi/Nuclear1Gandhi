@@ -11,7 +11,7 @@ Experience: 10 years
 ## 🚀 About Me
 
 - 🧠 Senior full stack developer with strong product and architecture instincts.
-- 🛠️ Building with TypeScript, React, Next.js, Svelte, SvelteKit, Node.js, PostgreSQL, Redis, Docker, and AWS.
+- 🛠️ Building with TypeScript, React, Next.js, Svelte, SvelteKit, Node.js, PostgreSQL, Redis, Docker, AWS but framework agnostic.
 - ⚡ Focused on performance, maintainability, developer experience, and real user impact.
 - 🌍 Experienced in shipping products for global users, including bilingual experiences and real-time systems.
 - 🔍 Especially interested in AI-powered features, automation, analytics, and complex UX made simple.
