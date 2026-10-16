@@ -4,7 +4,7 @@
 
 Experience: 11 years
 
-I want to turn the world upside down.
+The minute that you understand that you can poke life … if you push in, something will pop out the other side … you can change it, you can mold it... And flip it upside down!
 
 ***
 
