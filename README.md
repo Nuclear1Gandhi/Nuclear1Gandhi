@@ -6,7 +6,6 @@ Experience: 11 years
 
 The minute that you understand that you can poke life … if you push in, something will pop out the other side … you can change it, you can mold it.
 
-***
 
 ## 🚀 About Me
 
