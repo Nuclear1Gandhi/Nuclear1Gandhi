@@ -2,9 +2,9 @@
 
 ### CTO - PrevisionHealthcare | Founder - WeLearnin
 
-Problem solver, systems thinker, building across **EdTech**, **Web3**, **FinTech** and **MedTech**. I execute fast, 0 bs tolerance lets change the world.
-
 Experience: 11 years
+
+I want to turn the world upside down.
 
 ***
 
