@@ -1,17 +1,16 @@
-# Hey, I'm Marcin Moldrzyk 👋
+# Hey, Its Marcin 👋
 
-### Senior Full Stack Developer -  Product Builder -  Systems Thinker
+### CTO - PrevisionHealthcare | Founder - WeLearnin
 
-I build polished, scalable products across **EdTech**, **Web3**, **FinTech**, and automation-heavy platforms. My work usually sits at the intersection of product thinking, clean architecture, and fast execution — turning ambitious ideas into real systems people actually use.
+Problem solver, systems thinker, building across **EdTech**, **Web3**, **FinTech** and **MedTech**. I execute fast, 0 bs tolerance lets change the world.
 
-Experience: 10 years
+Experience: 11 years
 
 ***
 
 ## 🚀 About Me
 
-- 🧠 Senior full stack developer with strong product and architecture instincts.
-- 🛠️ Building with TypeScript, React, Next.js, Svelte, SvelteKit, Node.js, PostgreSQL, Redis, Docker, AWS but framework agnostic.
+- 🛠️ Tool agnostic, its AI era FFS!
 - ⚡ Focused on performance, maintainability, developer experience, and real user impact.
 - 🌍 Experienced in shipping products for global users, including bilingual experiences and real-time systems.
 - 🔍 Especially interested in AI-powered features, automation, analytics, and complex UX made simple.
@@ -87,7 +86,6 @@ const marcin = {
 
 - Building products that solve real problems
 - Creating smooth UX around technically complex systems
-- Writing code that stays fast, clear, and scalable
 - Balancing speed of delivery with long-term quality
 - Improving both the product and the way teams build it
 
@@ -95,14 +93,7 @@ const marcin = {
 
 ## 🎯 Current Focus
 
-Right now, I'm especially interested in:
-
-- Full stack product development
-- Platform architecture
-- Performance optimization
-- Automation and internal tooling
-- AI-enhanced user experiences
-- Real-time and data-rich applications
+As of today I'm building https://previsionhealthcare.com/ and https://welearnin.com/
 
 ***
 
