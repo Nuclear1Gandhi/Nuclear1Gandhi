@@ -1,6 +1,6 @@
 # Hey, Its Marcin 👋
 
-### CTO - PrevisionHealthcare | Founder - WeLearnin
+### CTO - PrevisionHealthcare | Life project - WeLearnin
 
 Experience: 11 years
 
