@@ -19,6 +19,11 @@ The minute that you understand that you can poke life … if you push in, someth
 
 ## 🏗️ Things I've Built
 
+### 🔬 PrevisionHealthcare
+
+Machine learning - stealh for now
+
+
 ### 🎓 WeLearnin
 Built a full learning platform from concept to production — including adaptive learning flows, collaborative features, analytics, and bilingual support.
 
