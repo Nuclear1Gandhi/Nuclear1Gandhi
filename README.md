@@ -103,4 +103,4 @@ As of today I'm building https://previsionhealthcare.com/ and https://welearnin.
 
 ***
 
-> Building products that are fast, useful, and satisfying to use.
+> I will change the world
