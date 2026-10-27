@@ -21,7 +21,7 @@ The minute that you understand that you can poke life … if you push in, someth
 
 ### 🔬 PrevisionHealthcare
 
-Machine learning - stealh for now
+Machine learning - Hospitals
 
 
 ### 🎓 WeLearnin
